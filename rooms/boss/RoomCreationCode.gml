@@ -1,0 +1,1 @@
+//global.lifeplayer = 3;

@@ -1,0 +1,1 @@
+objPlayer.speed = 0;

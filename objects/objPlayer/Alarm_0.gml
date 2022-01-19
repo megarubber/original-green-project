@@ -1,0 +1,1 @@
+jumpSpeed = jumpSpeed_Normal;
